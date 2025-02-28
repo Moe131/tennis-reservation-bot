@@ -7,6 +7,7 @@ This bot automates court reservations on [ReserveMyCourt](https://reservemycourt
 
 - Python 3.x installed on your system.
 - CRON setup to allow scheduled execution of the bot.
+- The correct version of ChromeDriver must be inside your folder for Selenium to run properly.
 
 ## Installation
 
