@@ -1,0 +1,2 @@
+# Requires Python 3.11.5 or higher
+selenium==4.22.0
